@@ -9,7 +9,7 @@
 ### Sistema de Gestión de Biblioteca
 
 **Presentado por:**\
-\[LAURA XIMENA BEJARANO ACOSTA - CLAUDITH BELTRAN LANDERO hola\]
+\[LAURA XIMENA BEJARANO ACOSTA - CLAUDITH BELTRAN LANDERO \]
 
 **Docente:**\
 \[VERONICA CASTRO MUNAR\]
